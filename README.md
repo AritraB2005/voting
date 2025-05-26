@@ -65,4 +65,5 @@ A secure, transparent, and tamper-proof voting system built on the Ethereum bloc
 ---
 
 ## 📁 Folder Structure (optional if full project)
+![image](https://github.com/user-attachments/assets/f44fcca7-8608-4267-a13c-4f3946df3dd8)
 
